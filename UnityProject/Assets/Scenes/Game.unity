@@ -37,7 +37,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44334623, g: 0.49257338, b: 0.57219654, a: 1}
+  m_IndirectSpecularColor: {r: 0.44579297, g: 0.49548465, b: 0.57431537, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -311,8 +311,8 @@ Light:
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 1
-    m_Resolution: 2
+    m_Type: 2
+    m_Resolution: 3
     m_CustomResolution: -1
     m_Strength: 0.67
     m_Bias: 1
@@ -336,10 +336,10 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1511707079}
-  m_LocalRotation: {x: 0.23305026, y: -0.46022448, z: 0.6659765, w: 0.5388472}
+  m_LocalRotation: {x: 0.45255855, y: -0.19015875, z: 0.030969212, w: 0.87067294}
   m_LocalPosition: {x: -0.13, y: 3.22, z: 0.22}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_LocalEulerAnglesHint: {x: 59.771004, y: -381.383, z: -270.478}
+  m_LocalEulerAnglesHint: {x: 126.894, y: -570.361, z: -551.081}
   m_Children: []
   m_Father: {fileID: 2146058518}
   m_RootOrder: 0
@@ -419,7 +419,7 @@ GameObject:
   - 4: {fileID: 1906568289}
   - 114: {fileID: 1906568288}
   m_Layer: 0
-  m_Name: ParentPlayer
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -439,7 +439,6 @@ MonoBehaviour:
   firstInput: 0
   isJumping: 0
   dir: {x: 0, y: 0, z: 0}
-  moveLength: 2
 --- !u!4 &1906568289
 Transform:
   m_ObjectHideFlags: 0
@@ -467,7 +466,7 @@ GameObject:
   - 54: {fileID: 1913962018}
   - 114: {fileID: 1913962016}
   m_Layer: 0
-  m_Name: PlayerObject
+  m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
