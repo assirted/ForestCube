@@ -1,4 +1,4 @@
-![Logo](https://github.com/assirted/ForestCube/raw/master/Etc/MainMenu_Logo.png)
+![Logo](/Etc/MainMenu_Logo.png?raw=true)
 # ForestCube
 
 ## Concept
@@ -10,6 +10,6 @@ Genre: Isometric Camera, survival
 Platform: PC
 
 ## Documentation
-[ForestCube Documentation.pdf](https://github.com/assirted/ForestCube/raw/master/Documentation/ForestCube%20Documentation.pdf)
+[ForestCube Documentation.pdf](/Documentation/ForestCube%20Documentation.pdf?raw=true)
 
-![Logo](https://github.com/assirted/ForestCube/raw/master/Etc/lifeless_corp.jpg)
+![Logo](/Etc/lifeless_corp.jpg)
