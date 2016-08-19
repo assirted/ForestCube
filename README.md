@@ -1,6 +1,5 @@
 ![Logo](/Etc/MainMenu_Logo.png?raw=true)
 # ForestCube
-<<<<<<< HEAD
 Started On August 1, 2016
 by Lifeless Corporation
 =======
