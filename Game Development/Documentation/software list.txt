@@ -1,0 +1,8 @@
+Software List :
+
+	- Unity 3D			
+	- Blender 3D		
+	- Linux MultiMedia Studio (LMMS)
+	- GNU Image Manipulation Program (GIMP)
+	- Inkscape
+	- Audacity

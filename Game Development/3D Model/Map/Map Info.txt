@@ -1,0 +1,11 @@
+Map Material Texture :
+- lumpur    : 97694D
+- green     : 6FB85B
+- gelep     : 724F3C
+- niga      : 9E6E56
+- wp green  : 74BE56
+- cave      : 6B4A36
+- sup green : 538A46
+- grassy    : 7DA357
+
+shader map sama seperti shader character (legacy - diffuse)

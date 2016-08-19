@@ -1,0 +1,7 @@
+shader setting = Legacy - diffuse
+
+Apple Material Texture :
+- APPLE RED : E73E3E
+- apple up  : CA3638
+- tangkai   : 8A4032
+- daun      : 90E781

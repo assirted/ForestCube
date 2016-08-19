@@ -1,0 +1,46 @@
+Game Setting : Window - Lighting - Scene
+- ambient source : Color
+- Ambient Color	 : 8B8B8B
+
+Chara setting : klik objeknya, cek di inspector, Mesh Renderer - shader - legacy - diffuse
+
+Pig Material Texture :	
+- kulit  : E7B2D1
+- lobang : CCBCBC
+- nyeker : A77E62
+- moto   : 5D5D5D
+- daging : E79797
+
+Bear Material Texture :
+- ALIS       : 3A2618
+- MOTO       : 222222
+- BULU       : 705646
+- KULIT      : AD7E89
+- IDUNG      : 222222
+- BULU IDUNG : 614A3C
+
+Baboon Material Texture :
+- Material.004 : 997F57
+- Material.010 : 30241B
+- Material.011 : 000000
+- Material.007 : B19365
+- Material.008 : BB4E40
+- Material.006 : EEC588
+- Material.001 : E7614F
+- Material.002 : A7C7C4
+- Material.003 : CFAC76
+
+Alligator Material Texture :
+- Material.001 : 58724A
+- Material.004 : 7F816C
+- Material.005 : 555555
+- Material.003 : D2E2C7
+- Material.002 : 445839
+
+Wolf Material Texture :
+- Material.001 : 8A8A8A
+- Material.004 : C5C5C5
+- Material.005 : 3F3F3F
+- Material.002 : 686868
+- Material.006 : 3F3F3F
+- Material.003 : A0A0A0
