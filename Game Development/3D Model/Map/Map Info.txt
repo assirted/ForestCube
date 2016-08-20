@@ -1,5 +1,5 @@
 Map Material Texture :
-- lumpur    : 97694D
+- iseng     : 97694D
 - green     : 6FB85B
 - gelep     : 724F3C
 - niga      : 9E6E56
@@ -7,5 +7,36 @@ Map Material Texture :
 - cave      : 6B4A36
 - sup green : 538A46
 - grassy    : 7DA357
+
+Pohon tinggi :
+- batang.006 : 999077
+- Daun 	     : 78A668
+
+Pohon Payung :
+-stick.001     : BBAF92
+- Leaf         : 7BB855
+- Material 000 : 82AA64
+
+Pohon Cemara : 
+- Daun.001   : 9AE76B
+- Batang.002 : AC865A
+
+Pohon Beringin :
+- Batang.003 : AC865A
+- Leaf.002   : 7BB855
+
+Pohon Tinggi 2 :
+- Batang.005 : 9C937A
+- Daun.004   : 8BC074
+
+Batu (semua cube+echosphere) :
+- Stone1 : 686868
+
+Cube (ilalang) :
+- Batang : FFF1BE
+- Buah   : B2AC72
+
+Rumput :
+- rumput.001 : 71B46C
 
 shader map sama seperti shader character (legacy - diffuse)
